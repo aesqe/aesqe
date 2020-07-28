@@ -4,7 +4,7 @@ I'm a web developer and a musician, currently working at [Toptal](https://www.to
 
 [WordPress](https://wordpress.org/plugins/file-gallery/) development used to be everything to me, but nowadays it's Javascript (vanilla, React, React Native, Electron, Node). I'm currently playing with Web Audio API and Web MIDI to see what's possible in that area.
 
-🎹🎵 As a musician, my most notable release to date is the official soundtrack for the WWII turn-based strategy game ["Unity of Command II"](https://s.team/a/809230). You can get the soundtrack on [Steam](https://s.team/a/1309670) and [Bandcamp](https://aesqe.bandcamp.com/album/unity-of-command-ii-ost).
+🎹🎵 As a musician, my most notable release to date is the official soundtrack for ["Unity of Command II"](https://s.team/a/809230), an amazing WWII turn-based strategy game. You can get the soundtrack on [Steam](https://s.team/a/1309670) and [Bandcamp](https://aesqe.bandcamp.com/album/unity-of-command-ii-ost).
 
 For the rest of my discography, please check out my [Soundcloud](https://soundcloud.com/aesqe) and [Bandcamp](https://aesqe.bandcamp.com) profiles.
 
