@@ -2,8 +2,8 @@
 
 I'm a musician and web developer. I was previously employed at [Toptal](https://www.toptal.com/) as a senior front-end engineer in the core team and at [Shoutem](https://shoutem.com/) as a React Native and web developer. I'm currently freelancing and learning about electric circuits and analog audio signals.
 
-[WordPress](https://wordpress.org/plugins/file-gallery/) development used to be everything to me, but these days, I'm mostly working with Javascript (Typescript, React, React Native, Electron, Node).
-I also love working with maps and geospatial data.
+For the past 10 years, I've been mostly working with Javascript (Typescript, React, React Native, Electron, Node). Before that, [WordPress](https://wordpress.org/plugins/file-gallery/) development used to be everything to me.
+I love working with maps and geospatial data, and I'm learning THREE.JS at the moment.
 
 🎹🎵 As a musician, my most notable release is the official soundtrack for ["Unity of Command II"](https://s.team/a/809230) - an amazing WWII turn-based strategy game. You can get the soundtrack on [Steam](https://s.team/a/1309670), [Bandcamp](https://aesqe.bandcamp.com/album/unity-of-command-ii-ost), and [Spotify](https://open.spotify.com/album/56rLUWlgBsntWTce9235o4).
 
