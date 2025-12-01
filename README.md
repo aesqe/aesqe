@@ -1,6 +1,6 @@
 ### Hi there! 👋🐈🐿️
 
-I'm a musician and web developer. I am currently employed at [Toptal](https://www.toptal.com/) as a senior front-end engineer in the core team. I'm currently learning about electric circuits and analog audio signals.
+I'm a musician and web developer currently employed at [Toptal](https://www.toptal.com/) as a senior front-end engineer in the core team. I'm also learning about electric circuits and analog audio signals.
 
 For the past 10 years, I've been mostly working with Javascript (Typescript, React, React Native, Electron, Node). Before that, [WordPress](https://wordpress.org/plugins/file-gallery/) development used to be everything to me.
 I love working with maps and geospatial data, and I'm learning THREE.JS at the moment.
